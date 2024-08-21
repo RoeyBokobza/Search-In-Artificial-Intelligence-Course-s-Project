@@ -13,4 +13,4 @@ To run a scenario over a given map, modify the bash script executables/run-singl
 This script will print to terminal plan statistics and visualize the path on the grid, for example:
 ![image](https://github.com/user-attachments/assets/15d2d2b9-461f-4180-bc08-036dd4c240e3)
 
-Under outputs you can see an example of a generated dataframe
+Under outputs you can see the results that was discussed in the project paper.
