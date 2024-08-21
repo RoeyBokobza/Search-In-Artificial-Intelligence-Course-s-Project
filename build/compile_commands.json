@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/A*.cpp.o -c \"/home/nirmalka/workspace/SearchInAI/src/A*.cpp\"",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/A*.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Agent.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Agent.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Agent.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Coordinate.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Coordinate.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Coordinate.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Edge.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Edge.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Edge.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Graph.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Graph.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Graph.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/IBDA*.cpp.o -c \"/home/nirmalka/workspace/SearchInAI/src/IBDA*.cpp\"",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/IBDA*.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/IDA*.cpp.o -c \"/home/nirmalka/workspace/SearchInAI/src/IDA*.cpp\"",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/IDA*.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/ISingleAgentPathPlanner.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/ISingleAgentPathPlanner.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/ISingleAgentPathPlanner.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Map.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Map.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Map.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Scenario.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Scenario.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Scenario.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Timer.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Timer.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Timer.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Utils.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Utils.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Utils.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/SeachInAI.dir/src/Vertex.cpp.o -c /home/nirmalka/workspace/SearchInAI/src/Vertex.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/src/Vertex.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/run-experiments.dir/executables/run-experiments.cpp.o -c /home/nirmalka/workspace/SearchInAI/executables/run-experiments.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/executables/run-experiments.cpp"
+},
+{
+  "directory": "/home/nirmalka/workspace/SearchInAI/build",
+  "command": "/usr/bin/c++ -g -std=gnu++23 -o CMakeFiles/run-single-scenario.dir/executables/run-single-scenario.cpp.o -c /home/nirmalka/workspace/SearchInAI/executables/run-single-scenario.cpp",
+  "file": "/home/nirmalka/workspace/SearchInAI/executables/run-single-scenario.cpp"
+}
+]
